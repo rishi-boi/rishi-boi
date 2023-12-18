@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishi and I'm a Student & Developer, from Pune,India</h1>
+<h1 align="center">Hi 👋, I'm Rishi 18yr old and I'm a Student & Developer, from Pune,India</h1>
 <h3 align="center">I have 2+ years of experience in web development, deep learning. So far I haven't been part of any major initiative, but I'm eager to take up a project with you</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-boi&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-boi" /> </p>
